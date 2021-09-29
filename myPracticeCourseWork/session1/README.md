@@ -1,6 +1,6 @@
 # Session 1 Exercises
 
-## Java build and test exercises and some Java revision
+## Java build and test exercises and some Java revision  
 
 These exercises will help you appreciate what maven does to help you build a java project.
 
